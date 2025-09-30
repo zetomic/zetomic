@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fun fact I code in python but I have a soft spot for java<br>I am working on RecruitWise a recruitment engine built with passion<br>Agentic AI is the next step<br>xIntern at Huawei Dubai<br>Aspiring AI Engineer<br>IBA Class of 2025<br>
+Fun fact I vibecode in python but I have a soft spot for java<br>I am working on RecruitWise a recruitment engine built with passion<br>Agentic AI is the next step<br>xIntern at Huawei Dubai<br>Aspiring AI Engineer<br>IBA Class of 2025<br>
 
 
 ## 🌐 Socials:
